@@ -16,12 +16,6 @@
             Quando eu clicar no botão Limpar
             Então voltar o produto ao estado original
 
-            Esquema do Cenário: Quantidade máxima
+            Cenário: Quantidade máxima
             Quando a <quantidade> for maior que 10
             Então deve exibir <mensagem> de alerta: "Quantidade máxima de 10 produtos por venda."
-
-            Exemplos:
-            | quantidade | mensagem                                      |
-            | 3          |                                               |
-            | 15         | "Quantidade máxima de 10 produtos por venda." |
-            | 10         |                                               |
