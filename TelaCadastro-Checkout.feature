@@ -24,4 +24,4 @@
             | e-mail           | mensagem           |
             | ebac.com.br      | "E-mail inválido." |
             | joao@            | "E-mail inválido." |
-            | joao@ebac.com.br | "E-mail inválido." |
+            | joao@ebac.com.br | "E-mail válido."   |
