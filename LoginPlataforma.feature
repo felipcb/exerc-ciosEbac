@@ -1,6 +1,6 @@
             #language: pt
 
-            Funcionalidade: Escolha do produto
+            Funcionalidade: Autenticação do e-mail
             Como cliente da EBAC-SHOP
             Quero fazer login na plataforma
             Para visualizar meus pedidos
